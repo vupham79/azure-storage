@@ -1,0 +1,8 @@
+{
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/514184ba-90c1-477d-aa82-b4dd31a9df24/resourceGroups/webapp/providers/Microsoft.Web/sites/blobstoragevuph",
+  "appService.deploySubpath": ""
+}
